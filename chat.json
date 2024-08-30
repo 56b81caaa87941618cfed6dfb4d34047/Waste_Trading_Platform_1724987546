@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific section of the app do you want the ninja image to be placed in?\", \"option1\": \"Homepage\", \"option2\": \"Profile page\"}, {\"question 2\": \"Do you have any particular style or theme for the ninja image in mind (e.g., cartoonish, realistic, silhouette)?\", \"option1\": \"Cartoonish style\", \"option2\": \"Realistic style\"}], \"input_token_count\": 264, \"output_token_count\": 97, \"time_taken\": \"0:00:01.951663\"}",
+        "message_id": "guest30082024032212",
+        "timestamp": "30082024032219",
+        "component_file_name": "purple_background_cta_component_1724987549",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm adding a ninja image for you.",
         "message_id": "guest30082024032212",
