@@ -1,5 +1,11 @@
 [
     {
+        "role": "user",
+        "content": "Change the text to be garbage themed (but still related to their original words)",
+        "timestamp": "30082024031306",
+        "message_id": "guest30082024031305"
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
