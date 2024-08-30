@@ -18,5 +18,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nIn the conversation, the user requested the AI assistant to change an image to a garbage-themed thumbnail. The AI acknowledged this request and confirmed it would update the image accordingly. Following that, the user was presented with two questions regarding the thumbnail design: the type of garbage image preferred (with options for a cartoon-style or a real-life garbage photo) and the color scheme (bright and colorful or muted and realistic). Subsequently, the AI provided a checklist of additional features, indicating that a garbage-themed color palette and a fun fact section about garbage and recycling were selected for implementation, while other features remained unchecked. The user was later asked two more questions regarding examples of original text to change and the desired tone of the text, but this prompted a failure response from the AI. However, the AI confirmed it would transform the text to a garbage theme while still relating to the original content. Lastly, the AI asked for a more detailed description of the project.\nUser: change the text to be ninja themed\nAI: Sure, I will update the text to be ninja themed.\nAI: Okay, I'm updating the text to be ninja themed.\nUser: Change the text to be ninja themed\n\nThis is the user's current request of changes to be made:\nChange all of the text to be ninja themed"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nput a ninja image in"
     }
 ]
