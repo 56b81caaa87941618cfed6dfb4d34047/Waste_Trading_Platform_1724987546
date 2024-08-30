@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: Change the text to be garbage themed (but still related to their original words)\n\nThis is the user's current request of changes to be made:\nChange the text to be garbage themed (but still related to their original words)"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: Change the image to be a garbage thumbnail\nAI: Absolutely, I'm transforming the text to a garbage theme!\nUser: Change the text to be garbage themed (but still related to their original words)\n\nThis is the user's current request of changes to be made:\nChange the image to be a garbage thumbnail"
     }
 ]
