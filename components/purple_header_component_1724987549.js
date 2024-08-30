@@ -25,7 +25,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Home.html"
               >
-                Home
+                Trash Heap
               </a>
             </li>
             <li>
@@ -34,7 +34,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Browse.html"
               >
-                Browse
+                Dumpster Dive
               </a>
             </li>
             <li>
@@ -43,7 +43,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Sell.html"
               >
-                Sell
+                Junk Trade
               </a>
             </li>
             <li>
@@ -52,7 +52,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="About.html"
               >
-                About
+                Landfill History
               </a>
             </li>
             <li>
@@ -61,7 +61,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Contact.html"
               >
-                Contact
+                Trash Talk
               </a>
             </li>
           </ul>
@@ -75,7 +75,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
               class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-slate-300 hover:text-white"
               href="signin.html"
             >
-              Sign in
+              Scavenge In
             </a>
           </li>
           <li class="ml-6">
@@ -84,7 +84,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
               class="btn-sm transition duration-150 ease-in-out w-full group relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none text-slate-300 hover:text-white [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]"
               href="signup.html"
             >
-              <span class="relative inline-flex items-center"> Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span> </span>
+              <span class="relative inline-flex items-center"> Dump Here <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span> </span>
             </a>
           </li>
         </ul>
@@ -118,19 +118,19 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           >
             <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]">
               <li>
-                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Home.html">Home</a>
+                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Home.html">Trash Heap</a>
               </li>
               <li>
-                <a id="mobile-Browse-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Browse.html">Browse</a>
+                <a id="mobile-Browse-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Browse.html">Dumpster Dive</a>
               </li>
               <li>
-                <a id="mobile-Sell-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Sell.html">Sell</a>
+                <a id="mobile-Sell-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Sell.html">Junk Trade</a>
               </li>
               <li>
-                <a id="mobile-About-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="About.html">About</a>
+                <a id="mobile-About-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="About.html">Landfill History</a>
               </li>
               <li>
-                <a id="mobile-Contact-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Contact.html">Contact</a>
+                <a id="mobile-Contact-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Contact.html">Trash Talk</a>
               </li>
             </ul>
           </nav>
