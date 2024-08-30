@@ -1,5 +1,29 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Ninja-themed typography\", \"checked\": true}, {\"feature\": \"Ninja character illustrations\", \"checked\": false}, {\"feature\": \"Animated ninja elements\", \"checked\": false}, {\"feature\": \"Ninja-themed color palette\", \"checked\": true}, {\"feature\": \"Ninja-inspired icons for navigation\", \"checked\": false}], \"input_token_count\": 305, \"output_token_count\": 83, \"time_taken\": \"0:00:01.555322\"}",
+        "message_id": "guest30082024031710",
+        "timestamp": "30082024031725",
+        "component_file_name": "purple_header_component_1724987549",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "In the conversation, the user requested the AI to transform a text to have a garbage theme while still maintaining its original context. The AI acknowledged this request and asked for more details about the project to better understand how to proceed. The user also noted that the AI is trained on data up to October 2023.",
+        "timestamp": "30082024031725",
+        "message_id": "guest30082024031710"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific ninja-related terms or phrases would you like incorporated into the text?\", \"option1\": \"Focus on traditional ninja concepts\", \"option2\": \"Use modern ninja culture references\"}, {\"question 2\": \"Do you want the tone of the text to be more humorous or serious?\", \"option1\": \"Humorous\", \"option2\": \"Serious\"}], \"input_token_count\": 351, \"output_token_count\": 89, \"time_taken\": \"0:00:01.006764\"}",
+        "message_id": "guest30082024031710",
+        "timestamp": "30082024031717",
+        "component_file_name": "purple_header_component_1724987549",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm updating the text to be ninja themed.",
         "message_id": "guest30082024031710",
@@ -7,12 +31,6 @@
         "component_file_name": "",
         "div_id": "",
         "div_action": ""
-    },
-    {
-        "role": "summary",
-        "content": "Can you describe the project a bit more?",
-        "timestamp": "30082024031712",
-        "message_id": "guest30082024031710"
     },
     {
         "role": "user",
@@ -73,24 +91,6 @@
         "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"ERROR on qna[{\\\"question 1\\\" : \\\"Can you provide specific examples of the original text you'd like to change to garbage themed?\\\", \\\"option1\\\" : \\\"Yes, here are the examples.\\\", \\\"option2\\\" : \\\"No, I need to brainstorm more.\\\"},\\n{\\\"question 2\\\" : \\\"What tone do you want the garbage themed text to convey (e.g., humorous, serious, educational)?\\\", \\\"option1\\\" : \\\"Humorous\\\", \\\"option2\\\" : \\\"Serious\\\"}}\", \"time_taken\": \"0:00:01.418311\"}",
         "message_id": "guest30082024031305",
         "timestamp": "30082024031314",
-        "component_file_name": "purple_header_component_1724987549",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Absolutely, I'm transforming the text to a garbage theme!",
-        "message_id": "guest30082024031305",
-        "timestamp": "30082024031307",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "Change the text to be garbage themed (but still related to their original words)",
-        "message_id": "guest30082024031305",
-        "timestamp": "30082024031306",
         "component_file_name": "purple_header_component_1724987549",
         "div_id": "",
         "div_action": ""
