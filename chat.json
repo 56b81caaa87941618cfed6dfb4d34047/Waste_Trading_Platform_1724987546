@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific ninja-related terms or phrases would you like incorporated into the text?\", \"option1\": \"Focus on traditional ninja concepts\", \"option2\": \"Use modern ninja culture references\"}, {\"question 2\": \"Do you want the tone of the text to be more humorous or serious?\", \"option1\": \"Humorous\", \"option2\": \"Serious\"}], \"input_token_count\": 351, \"output_token_count\": 89, \"time_taken\": \"0:00:01.006764\"}",
+        "message_id": "guest30082024031710",
+        "timestamp": "30082024031717",
+        "component_file_name": "purple_header_component_1724987549",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm updating the text to be ninja themed.",
         "message_id": "guest30082024031710",
