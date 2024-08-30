@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'm adding a ninja image for you.",
+        "message_id": "guest30082024032212",
+        "timestamp": "30082024032214",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "put a ninja image in",
         "message_id": "guest30082024032212",
