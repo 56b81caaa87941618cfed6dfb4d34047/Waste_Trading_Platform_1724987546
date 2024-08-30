@@ -28,9 +28,8 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-slate-400">
-                &copy; © 2023 TrashTrove. All rights reserved.
-                <span class="text-slate-500">-</span> All rights reserved.
-              </div>
+                &copy; © 2023 ShadowClan. All rights reserved.
+                <span class="text-slate-500">-</span> Vanish into the night.
             </div>
             <!-- Social links -->
             <ul id="footer-social-links" class="flex">
@@ -95,8 +94,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             id="footer-block-2-title"
             class="text-sm font-medium mb-2 text-slate-50 hover:text-purple-400"
           >
-            About TrashTrove
-          </h6>
+            About ShadowClan
           <ul id="footer-block-2-list" class="text-sm space-y-2">
             <li>
               <a
@@ -104,8 +102,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                Our Mission
-              </a>
+                Our Nindo
             </li>
             <li>
               <a
@@ -113,8 +110,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                How It Works
-              </a>
+                Stealth Techniques
             </li>
             <li>
               <a
@@ -122,8 +118,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                Sustainability Impact
-              </a>
+                Shadow Impact
             </li>
             <li>
               <a
@@ -131,8 +126,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400"
                 href="#0"
               >
-                Partner With Us
-              </a>
+                Join Our Clan
             </li>
           </ul>
         </div>
@@ -140,8 +134,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         <!-- 3rd block -->
         <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
           <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-slate-50">
-            Waste Categories
-          </h6>
+            Ninja Arts
           <ul id="footer-block-3-list" class="text-sm space-y-2">
             <li>
               <a
@@ -149,8 +142,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                Recyclables
-              </a>
+                Ninjutsu
             </li>
             <li>
               <a
@@ -158,8 +150,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                Compostables
-              </a>
+                Genjutsu
             </li>
             <li>
               <a
@@ -167,8 +158,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                E-Waste
-              </a>
+                Taijutsu
             </li>
             <li>
               <a
@@ -176,8 +166,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                Hazardous Materials
-              </a>
+                Forbidden Jutsu
             </li>
           </ul>
         </div>
@@ -185,8 +174,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         <!-- 4th block -->
         <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2">
           <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-slate-50">
-            Support
-          </h6>
+            Clan Support
           <ul id="footer-block-4-list" class="text-sm space-y-2">
             <li>
               <a
@@ -194,8 +182,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                FAQ
-              </a>
+                Ninja Scroll
             </li>
             <li>
               <a
@@ -203,8 +190,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                Contact Us
-              </a>
+                Summon Us
             </li>
             <li>
               <a
@@ -212,8 +198,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                Terms of Service
-              </a>
+                Ninja Code
             </li>
             <li>
               <a
@@ -221,8 +206,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-slate-400 hover:text-slate-200"
                 href="#0"
               >
-                Privacy Policy
-              </a>
+                Shadow Protocol
             </li>
           </ul>
         </div>
