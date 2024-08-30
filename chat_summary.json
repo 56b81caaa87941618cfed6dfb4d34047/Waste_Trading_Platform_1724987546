@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific type of garbage image are you envisioning for the thumbnail?\", \"option1\": \"A cartoon-style garbage image\", \"option2\": \"A real-life garbage photo\"}, {\"question 2\": \"Do you have any preferred color schemes or styles in mind for the thumbnail design?\", \"option1\": \"Bright and colorful\", \"option2\": \"Muted and realistic\"}], \"input_token_count\": 320, \"output_token_count\": 90, \"time_taken\": \"0:00:01.875418\"}",
+        "timestamp": "30082024031400",
+        "message_id": "guest30082024031354"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll update the image to a garbage thumbnail.",
         "timestamp": "30082024031355",
