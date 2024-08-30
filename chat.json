@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 197 (char 354)\", \"time_taken\": \"0:00:01.247007\"}",
+        "message_id": "guest30082024031832",
+        "timestamp": "30082024031844",
+        "component_file_name": "dark_footer_component_1724987549",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm working on changing all text to ninja themed.",
         "message_id": "guest30082024031832",
