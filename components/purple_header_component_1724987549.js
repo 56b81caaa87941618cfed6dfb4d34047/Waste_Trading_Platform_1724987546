@@ -18,7 +18,7 @@
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Home.html"
               >
-                Trash Heap
+                Shadow Dojo
               </a>
             </li>
             <li>
@@ -27,7 +27,7 @@
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Browse.html"
               >
-                Dumpster Dive
+                Stealth Arsenal
               </a>
             </li>
             <li>
@@ -36,7 +36,7 @@
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Sell.html"
               >
-                Junk Trade
+                Ninja Marketplace
               </a>
             </li>
             <li>
@@ -45,7 +45,7 @@
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="About.html"
               >
-                Landfill History
+                Clan Chronicles
               </a>
             </li>
             <li>
@@ -54,7 +54,7 @@
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
                 href="Contact.html"
               >
-                Trash Talk
+                Whisper Network
               </a>
             </li>
           </ul>
@@ -68,7 +68,7 @@
               class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-slate-300 hover:text-white"
               href="signin.html"
             >
-              Scavenge In
+              Shadow Infiltration
             </a>
           </li>
           <li class="ml-6">
@@ -77,7 +77,7 @@
               class="btn-sm transition duration-150 ease-in-out w-full group relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none text-slate-300 hover:text-white [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]"
               href="signup.html"
             >
-              <span class="relative inline-flex items-center"> Dump Here <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span> </span>
+              <span class="relative inline-flex items-center"> Join the Clan <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span> </span>
             </a>
           </li>
         </ul>
@@ -111,19 +111,19 @@
           >
             <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]">
               <li>
-                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Home.html">Trash Heap</a>
+                <a id="mobile-Home-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Home.html">Shadow Dojo</a>
               </li>
               <li>
-                <a id="mobile-Browse-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Browse.html">Dumpster Dive</a>
+                <a id="mobile-Browse-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Browse.html">Stealth Arsenal</a>
               </li>
               <li>
-                <a id="mobile-Sell-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Sell.html">Junk Trade</a>
+                <a id="mobile-Sell-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Sell.html">Ninja Marketplace</a>
               </li>
               <li>
-                <a id="mobile-About-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="About.html">Landfill History</a>
+                <a id="mobile-About-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="About.html">Clan Chronicles</a>
               </li>
               <li>
-                <a id="mobile-Contact-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Contact.html">Trash Talk</a>
+                <a id="mobile-Contact-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Contact.html">Whisper Network</a>
               </li>
             </ul>
           </nav>
