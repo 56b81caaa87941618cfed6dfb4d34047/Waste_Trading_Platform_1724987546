@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "put a ninja image in",
+        "message_id": "guest30082024032212",
+        "timestamp": "30082024032213",
+        "component_file_name": "purple_background_cta_component_1724987549",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Ninja-themed font style\", \"checked\": true}, {\"feature\": \"Ninja-themed color palette\", \"checked\": true}, {\"feature\": \"Interactive ninja character guides\", \"checked\": false}, {\"feature\": \"Ninja trivia section\", \"checked\": false}, {\"feature\": \"Ninja-inspired icons for actions\", \"checked\": false}], \"input_token_count\": 469, \"output_token_count\": 85, \"time_taken\": \"0:00:01.353817\"}",
         "message_id": "guest30082024031832",
