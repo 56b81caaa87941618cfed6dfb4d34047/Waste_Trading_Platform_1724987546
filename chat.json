@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"ERROR on qna[{\\\"question 1\\\" : \\\"Can you provide specific examples of the original text you'd like to change to garbage themed?\\\", \\\"option1\\\" : \\\"Yes, here are the examples.\\\", \\\"option2\\\" : \\\"No, I need to brainstorm more.\\\"},\\n{\\\"question 2\\\" : \\\"What tone do you want the garbage themed text to convey (e.g., humorous, serious, educational)?\\\", \\\"option1\\\" : \\\"Humorous\\\", \\\"option2\\\" : \\\"Serious\\\"}}\", \"time_taken\": \"0:00:01.418311\"}",
+        "message_id": "guest30082024031305",
+        "timestamp": "30082024031314",
+        "component_file_name": "purple_header_component_1724987549",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Absolutely, I'm transforming the text to a garbage theme!",
         "message_id": "guest30082024031305",
