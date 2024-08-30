@@ -30,23 +30,23 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
         <!-- Content -->
         <div id="content" class="max-w-3xl mx-auto text-center">
           <div id="content-subtitle" class="flex">
-            <div id="content-subtitle-text" class="flex-1 font-medium bg-clip-text pb-3 text-transparent bg-gradient-to-r from-purple-500 to-purple-200">
-              Join the circular economy movement today!
+              Join the secret ninja clan today!
             </div>
           </div>
+          </div>
           <div class="flex" id="content-title-container">
-            <h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60">
-              Trash to Treasure: Your One-Stop Waste Exchange
+              Shadow to Stealth: Your One-Stop Ninja Training
             </h2>
           </div>
+          </div>
           <div class="flex" id="content-body-container">
-            <p id="content-body" class="flex-1 text-lg mb-8 text-slate-400">
-              Turn your trash into someone else's treasure! Our innovative marketplace connects waste producers with recyclers, upcyclers, and eco-conscious buyers.
+              Transform your skills into ninja mastery! Our innovative dojo connects aspiring ninjas with masters, trainers, and legendary shinobi.
             </p>
           </div>
+          </div>
           <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-slate-900 bg-gradient-to-r from-white/80 via-white to-white/80 hover:bg-white">
-            Get Started
-            <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span>
+            Begin Training
+            <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500"><i class='bx bx-shuriken'></i></span>
           </a>
         </div>
       </div>
