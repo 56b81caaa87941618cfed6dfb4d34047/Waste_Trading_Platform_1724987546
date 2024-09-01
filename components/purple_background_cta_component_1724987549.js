@@ -38,9 +38,6 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
           <div class="flex justify-center" id="content-body-container">
             <p class="text-xl text-pink-100 mb-8">Transform your skills into ninja mastery! Our innovative dojo connects aspiring ninjas with masters, trainers, and legendary shinobi.</p>
           </div>
-          <div class="flex justify-center">
-            <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Waste_Trading_Platform_1724987546/main/images/93a40a64340b4aa9933e9aefd619c0ef.jpeg" alt="Ninja Training" class="mb-4 rounded-lg" />
-          </div>
           <a id="content-cta-button" href="#0" class="inline-flex items-center px-6 py-3 text-lg font-medium text-purple-900 bg-gradient-to-r from-pink-300 to-purple-300 rounded-full hover:from-pink-400 hover:to-purple-400 transition duration-300 ease-in-out transform hover:scale-105">
             Begin Training
             <span id="content-cta-arrow" class="ml-2">
