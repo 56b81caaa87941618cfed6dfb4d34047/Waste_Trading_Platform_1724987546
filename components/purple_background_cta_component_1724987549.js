@@ -4,7 +4,7 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
 -->
 
 <template>
-  <section id="cta-section-container" class="bg-gradient-to-br from-pink-500 via-purple-600 to-black min-h-screen flex items-center justify-center">
+  <section id="cta-section-container" style="min-height: 430px" class="bg-gradient-to-br from-pink-500 via-purple-600 to-black min-h-screen flex items-center justify-center">
     <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6">
       <div id="content-container" class="relative px-8 py-12 md:py-20 rounded-3xl overflow-hidden bg-opacity-20 bg-white backdrop-filter backdrop-blur-lg shadow-lg">
 
